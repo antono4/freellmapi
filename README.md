@@ -1,2 +1,34 @@
-Last updated: 2026-08-31 19:05:53 WIB
-Last updated: 2026-08-31 19:06:54 WIB
+# freellmapi
+
+
+
+## 📋 Overview
+
+This repository contains **183 files** and is built with the following technologies:
+
+Node.js, Docker
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 🔧 Environment config included
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-31 20:36:52 WIB*
